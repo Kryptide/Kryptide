@@ -6,7 +6,7 @@
 ### 📢<ins>LATEST UPDATES</ins>📢
 <img src="https://media.tenor.com/7tHHMkFVG7sAAAAi/chillet-palworld.gif" width="30"> [PALWORLD-BACKUP DISCUSSION OPEN!](https://github.com/Kryptide/Palworld-Backup/discussions/1)
 
-<img src="https://media.tenor.com/7tHHMkFVG7sAAAAi/chillet-palworld.gif" width="30"> [PALWORLD BACKUP/RESTORE SCRIPT UPDATED TO v3.3](https://github.com/Kryptide/Palworld-Backup/)
+<img src="https://media.tenor.com/7tHHMkFVG7sAAAAi/chillet-palworld.gif" width="30"> [PALWORLD BACKUP/RESTORE SCRIPT UPDATED TO V3.3!](https://github.com/Kryptide/Palworld-Backup/)
 
 ---
 ![Metrics](/github-metrics.svg)
