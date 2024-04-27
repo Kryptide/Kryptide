@@ -1,2 +1,1 @@
-Hello There!
-
+![Metrics](/github-metrics.svg)
